@@ -18,7 +18,13 @@ namespace MicroMath_Vincent
         {
             return a + b;
         }
-
+        /// <summary>
+        /// Add three numbers
+        /// </summary>
+        /// <param name="t1">Fist number</param>
+        /// <param name="t2">Second number</param>
+        /// <param name="t3">Third number</param>
+        /// <returns>Returns the result </returns>
         public int Add3Numbers(int a, int b, int c)
         {
             return a + b + c;
