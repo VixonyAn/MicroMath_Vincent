@@ -24,7 +24,7 @@ namespace MicroMath_Vincent
         /// <param name="t1">Fist number</param>
         /// <param name="t2">Second number</param>
         /// <param name="t3">Third number</param>
-        /// <returns>Returns the result </returns>
+        /// <returns>Int: Sum af tal</returns>
         public int Add3Numbers(int a, int b, int c)
         {
             return a + b + c;
