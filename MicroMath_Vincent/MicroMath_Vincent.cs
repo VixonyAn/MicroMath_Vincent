@@ -18,5 +18,10 @@ namespace MicroMath_Vincent
         {
             return a + b;
         }
+
+        public int Add3Numbers(int a, int b, int c)
+        {
+            return a + b + c;
+        }
     }
 }
