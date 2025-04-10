@@ -23,5 +23,10 @@ namespace MicroMath_Vincent
         {
             return a + b + c;
         }
+
+        public int Subtract(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
