@@ -8,6 +8,9 @@ namespace MicroMath_Vincent
 {
     public class MicroMath_Vincent
     {
+        //Added a comment locally in featureJA
+
+
         /// <summary>
         /// Lægger to tal sammen
         /// </summary>
@@ -34,5 +37,6 @@ namespace MicroMath_Vincent
         {
             return a - b;
         }
+
     }
 }
