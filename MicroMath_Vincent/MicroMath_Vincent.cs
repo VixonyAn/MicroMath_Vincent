@@ -8,6 +8,9 @@ namespace MicroMath_Vincent
 {
     public class MicroMath_Vincent
     {
-
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
